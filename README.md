@@ -10,12 +10,16 @@
 - 👯 I’m looking to collaborate on **data science & machine learning projects**
 
 - 📫 How to reach me **aaryawalgaonkar3@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarya984" alt="aarya984" /></a> </p>
 
 <p align="left">
 <a href="https://linkedin.com/in/aarya walgaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarya walgaonkar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Trophies:</h3>
+<p align="left">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarya984" alt="aarya984" /></a> </p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
