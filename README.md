@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarya984&label=Profile%20views&color=0e75b6&style=flat" alt="aarya984" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarya984" alt="aarya984" /></a> </p>
-
 - 🔭 I’m currently working on **data analytics**
 
 - 🌱 I’m currently learning **data science**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **aaryawalgaonkar3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarya984" alt="aarya984" /></a> </p>
+
 <p align="left">
 <a href="https://linkedin.com/in/aarya walgaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarya walgaonkar" height="30" width="40" /></a>
 </p>
